@@ -7,7 +7,7 @@ author: GuckTubeYT
 
 commands:
  job:
-  description: Job master command
+  description: §4JobSystem
   usage: /job <join|retire|list|me>
   permission: economyjob.command.job
 permissions:
